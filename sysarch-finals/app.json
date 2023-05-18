@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "splash": {
+      "image": "./assets/images/kemal.png"
+    },
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "sysarch-finals",
+    "slug": "sysarch-finals"
+  }
+}
